@@ -1,17 +1,13 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
-
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
+title:          K. Twyla Park
+description:    "creating and archiving"
+url:            "https://ktpcreates.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         K. Twyla Park
+  url:          https://ktpcreates.github.io
+  email:        ktpcreates@gmail.com
 
 # Build settings
 markdown:       kramdown
@@ -36,6 +32,3 @@ paginate:       5
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
-
-# Disqus (Set to your disqus id)
-disqus:         jekyll-tale
