@@ -1,13 +1,13 @@
 # Site settings
-title:          K. Twyla Park
-description:    "creating and archiving"
-url:            "https://ktpcreates.github.io"
+title:          HALIDE LOOP
+description:    "creating. combining."
+url:            "https://halideloop.github.io"
 
 # Author
 author:
   name:         K. Twyla Park
-  url:          https://ktpcreates.github.io
-  email:        ktpcreates@gmail.com
+  url:          https://halideloop.github.io
+  email:        ktwylapark@hotmail.com
 
 # Build settings
 markdown:       kramdown
